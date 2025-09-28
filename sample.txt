@@ -1,0 +1,5 @@
+Sample file content for CPAN 212 Lab 2
+User ID: 12345
+User Name: Maryan Farah
+Created at: 2025-09-28T00:51:35.540Z
+This file demonstrates asynchronous file reading with fs.promises
